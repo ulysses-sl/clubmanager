@@ -1,0 +1,10 @@
+query
+
+
+
+* Options are:
+
+query: write exact matchings from query.csv to out.csv
+insert: insert everything in in.csv into data
+delete: delete partial matchings from data
+modify: substitute a unique partial matching with input
